@@ -8,17 +8,26 @@ I am a full stack web developer currently pursuing a Master's degree in Software
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshnaik7999/) [<img src="https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:info@harshnaik.com)  [<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Autodidact7999)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/naik.99/)  [<img src = "https://img.shields.io/badge/resume-%234285F4.svg?&style=for-the-badge&logo=google-drive&logoColor=white">](https://drive.google.com/file/d/14HbxZ_rdKnSHM2g_VbKPIuzAXvNWhVCI/view)  [![GitHub followers](https://img.shields.io/github/followers/Autodidact7999?label=Followers&style=for-the-badge)](https://github.com/Autodidact7999?tab=followers)<br>
   
  </div>
-  <hr>
-  
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Autodidact7999&theme=blue-green&layout=compact)
-
-<hr>
-<h3 align="center">Tech Stack I have used till now</h3>
-<p align="center">
-<img src="https://img.icons8.com/color/65/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/65/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/65/000000/python.png"/> <img src="https://img.icons8.com/color/65/000000/javascript.png"/>
-<br>
-<img src="https://img.icons8.com/color/65/000000/html-5.png"/> <img src="https://img.icons8.com/color/65/000000/css3.png"/> <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>  <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> &nbsp;<img src="https://img.icons8.com/ultraviolet/55/000000/react.png"/> <img  src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
-<br/>
-<img src="https://img.icons8.com/color/80/000000/microsoft-sql-server.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/70/000000/mysql-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/><img src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/><img  src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
-</p>
+<table style="width:100%">
+    <tr>
+        <td>
+            <hr>
+            <h3 align="left">Most Languages Used</h3>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Autodidact7999&theme=blue-green&layout=compact">
+            <hr>
+        </td>
+        <td>
+            <hr>
+            <h3 align="left">Tech Stack I have used till now</h3>
+            <p align="left">
+            <img src="https://img.icons8.com/color/65/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/65/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/65/000000/python.png"/> <img src="https://img.icons8.com/color/65/000000/javascript.png"/>
+            <br>
+            <img src="https://img.icons8.com/color/65/000000/html-5.png"/> <img src="https://img.icons8.com/color/65/000000/css3.png"/> <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>  <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> &nbsp;<img src="https://img.icons8.com/ultraviolet/55/000000/react.png"/> <img  src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+            <br/>
+            <img src="https://img.icons8.com/color/80/000000/microsoft-sql-server.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/70/000000/mysql-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/><img src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/><img  src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
+            </p>
+            <hr>
+        </td>
+    </tr>
+</table>
 <hr>
