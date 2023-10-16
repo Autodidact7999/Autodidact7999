@@ -10,7 +10,6 @@ I am a full stack web developer currently pursuing a Master's degree in Software
  </div>
   <hr>
   
-  ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Autodidact7999&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true)
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Autodidact7999&theme=blue-green&layout=compact)
 
 <hr>
