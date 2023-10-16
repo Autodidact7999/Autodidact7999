@@ -18,8 +18,8 @@ I am a full stack web developer currently pursuing a Master's degree in Software
 <p align="center">
 <img src="https://img.icons8.com/color/65/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/65/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/65/000000/python.png"/> <img src="https://img.icons8.com/color/65/000000/javascript.png"/>
 <br>
-<img src="https://img.icons8.com/color/65/000000/html-5.png"/> <img src="https://img.icons8.com/color/65/000000/css3.png"/> <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>  <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> &nbsp;<img src="https://img.icons8.com/ultraviolet/55/000000/react.png"/> <img src="https://img.icons8.com/ultraviolet/55/000000/angular.png"/>
+<img src="https://img.icons8.com/color/65/000000/html-5.png"/> <img src="https://img.icons8.com/color/65/000000/css3.png"/> <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>  <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> &nbsp;<img src="https://img.icons8.com/ultraviolet/55/000000/react.png"/> <img src="https://icons8.com/icon/l9a5tcSnBwcf/angular"/>
 <br/>
-<img src="https://img.icons8.com/color/80/000000/microsoft-sql-server.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/70/000000/mysql-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/><img src="https://img.icons8.com/color/80/000000/.net-framework.png"/><img src="https://img.icons8.com/color/80/000000/azure.png"/>
+<img src="https://img.icons8.com/color/80/000000/microsoft-sql-server.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/70/000000/mysql-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/><img src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/><img  src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
 </p>
 <hr>
